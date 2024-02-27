@@ -15,8 +15,6 @@ Nimbus CRM is a customer relationship management system that includes 4 main fea
 
 <strong>MVC pattern</strong>
 
-Here's the corrected version:
-
 As you can see, the project structure is defined by an MVC programming pattern. I defined some URL rewrite rules 
 within the .htaccess file to manipulate the URL's data, invoking controller classes and executing their methods 
 following the next structure: 'controller/method'. This is defined in the index.php file, where you can find out 
