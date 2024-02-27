@@ -38,8 +38,6 @@ statements to control the rendering of the HTML elements."
 
 <strong>Styling</strong>
 
-Here's the revised version:
-
 To style the entire web app, I used CSS3 without any frameworks. This means that I decided to create my own CSS classes for 
 different elements such as divs, buttons, and templates. I utilized CSS grid and CSS flexbox to ensure that the design is 
 responsive and available for mobile devices as well. Please review the `styles.css` file to see how it was implemented.
