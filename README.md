@@ -106,11 +106,11 @@ si no que fue imprecindible el uso de JavaScript para poder controlar el DOM efi
 
 <strong>Vue.js CDN / JavaScript nativo</strong>
 
-Basicamente se creó un componente principal en el cual se encuentran asociadas todas las propiedades del componente 'app' dentro de data(), de esta
+Basicamente se creó un componente principal en el cual se encuentran asociadas todas las propiedades del componente 'app' dentro de `data()`, de esta
 forma se facilitó la manipulación de la información del frontend hacia el backend haciendo peticiones asincronas desde el frontend utilizando el método
-XMLHttprequest() de javascript (no se utilizó fetch() ni alguna librería adicional para envíar y recibir datos).
+`XMLHttpRequest()` de javascript (no se utilizó `fetch()` ni alguna librería adicional para envíar y recibir datos).
 Para la manipulación del DOM se uso JavaScript nativo (por favor revíse el fichero main.js para más detalles) utilizando métodos clásicos como
-document.querySelector(), bucles for, foreach, estructuras de control como switch, if/else etc.
+`document.querySelector()`, bucles for, foreach, estructuras de control como switch, if/else etc.
 
 <strong>Estilos</strong>
 
