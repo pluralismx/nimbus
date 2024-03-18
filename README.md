@@ -128,7 +128,7 @@ escapado de caracteres, entre otras medidas de seguridad.
 
 <strong>Usuario de prueba</strong>
 
-Por favor no olvide echarle uno ojo a Nimbus CRM en https://crm.nimbus.com.mx accediendo con el siguiente usuario de prueba:
+Por favor no olvide echarle uno ojo a Nimbus CRM en https://crm.pluralis.com.mx accediendo con el siguiente usuario de prueba:
 <br/>
 <br/>
 usuario: demo@pluralis.com.mx
